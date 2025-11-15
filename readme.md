@@ -279,11 +279,7 @@ terraform workspace select blue && terraform destroy
 
 ---
 
-## 📈 Resume Description
-
-**Engineered enterprise-grade multi-region AWS infrastructure automation platform using 40+ reusable Terraform modules, achieving 99.99% uptime for 50,000+ concurrent users with intelligent auto-scaling (2-100 EC2 instances), reducing infrastructure costs by 65% through spot integration and predictive scaling, implementing zero-downtime blue-green deployments with <5s switchover, establishing SOC2/ISO27001 compliance with automated security scanning, and integrating comprehensive observability (CloudWatch/Prometheus/Grafana) with PagerDuty alerting—reducing deployment time from 4-6 weeks to 15 minutes and MTTR from 45 minutes to 2 minutes.**
-
-### Key Achievements Breakdown:
+## Key Achievements Breakdown:
 - **40+ Reusable Terraform Modules**: VPC, ALB, ASG, RDS, ElastiCache, S3, CloudFront with automated drift detection
 - **99.99% Uptime**: Multi-AZ deployment with <30s failover, cross-region DR (RPO <5min, RTO <15min)
 - **65% Cost Reduction**: $45K→$15.75K/month through spot instances (60% savings), auto-scaling, reserved instances, and S3 lifecycle policies
@@ -311,7 +307,7 @@ MIT License - see [LICENSE](LICENSE)
 
 **Built with ❤️ by [Rohan Tikotekar](https://github.com/rohantikotekar)**
 
-For questions: [LinkedIn](https://www.linkedin.com/in/rohantikotekar) | [Email](mailto:rohan@example.com)
+For questions: [LinkedIn](https://www.linkedin.com/in/rohantikotekar) 
 
 
 

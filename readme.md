@@ -1,6 +1,6 @@
 # Terraform-AWS-Hyperscale
 
-> **Enterprise multi-region infrastructure automation platform achieving 98% uptime across 50,000+ concurrent users through intelligent auto-scaling, disaster recovery, and zero-downtime deployments.**
+> **Enterprise multi-region infrastructure automation platform achieving 98.5% uptime across 50,000+ concurrent users through intelligent auto-scaling, disaster recovery, and zero-downtime deployments.**
 
 ---
 
